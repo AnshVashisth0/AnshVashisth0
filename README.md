@@ -1,64 +1,18 @@
-<h2 align="center">Hi 👋! <br>My name is Ansh Vashisth and I'm an Aspiring Data Scientist</h2>
+# 💫 About Me:
+👋 Hello, World! I'm Ansh Vashisth<br>🎓 AI & Data Science Enthusiast | 💻 Aspiring Data Scientist | 🚀 Open-Source Contributor<br><br>💡 About Me<br>🔍 Passionate about AI, Machine Learning, and Deep Learning.<br>🛠️ Actively contributing to open-source projects and collaborating with tech communities.<br>🧠 Exploring Python, Data Science Libraries, and the power of Generative AI.<br>🎯 Focused on building innovative tech solutions for social good.<br>🚀 What I'm Working On<br>📊 Building data-driven solutions and analyzing real-world problems.<br>🔧 Working on cool projects integrating AI, APIs, and automation tools.<br>🎓 Learning and contributing to the global open-source community.<br>📚 Skills & Tools<br>Languages: Python 🐍, SQL, JavaScript ✨<br>Tech Stack: Flask ⚙️, React.js ⚛️, Node.js 🌐<br>Libraries: Pandas, NumPy, Matplotlib 📈<br>Tools: Git/GitHub, VS Code, Jupyter Notebook 💻<br>🌱 I’m Currently Learning<br>🧠 Deep Learning and Natural Language Processing (NLP)<br>🚀 Improving my Python libraries and ML skills<br>🎖️ Achievements<br>🏆 Hacktoberfest 2024 Contributor<br>🎓 Certified in Generative AI and Data Science<br>💡 Tech Council Contributor | Smart India Ideathon Participant<br>🤝 Let's Connect!<br>📫 Email: anshpn566720@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/ansh-vashisth-8414ba180/<br>🌐 Portfolio: Coming Soon...<br>🌟 "Innovation starts with curiosity and collaboration — let's build something incredible!" 🚀
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshVashisth0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshVashisth0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansh-vashisth-8414ba180/) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnshVashisth0&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnshVashisth0&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshVashisth0&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub"  />
+---
+[![](https://visitcount.itsvg.in/api?id=AnshVashisth0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AnshVashisth0/AnshVashisth0/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshVashisth0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshVashisth0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
